@@ -13,6 +13,6 @@
 
  dario.rodri123@gmail.com
 
-🔎 Minhas redes:  
+🔎 Meus perfis:  
 
 [Frontend Mentor](https://www.frontendmentor.io/profile/Unidade)
