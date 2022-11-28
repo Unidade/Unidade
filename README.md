@@ -12,3 +12,6 @@
 📫 Como me contatar:  
 
  dario.rodri123@gmail.com
+
+🔎 Minhas redes:
+[Frontend Mentor](https://www.frontendmentor.io/profile/Unidade)
