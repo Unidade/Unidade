@@ -16,6 +16,7 @@
 🔎 Meus perfis:  
 
 [Frontend Mentor](https://www.frontendmentor.io/profile/Unidade)
+[LinkendIn](https://www.linkedin.com/in/dariorodriguesdev/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unidade)](https://github.com/anuraghazra/github-readme-stats)
 
