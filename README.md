@@ -1,5 +1,3 @@
-### Olá 👋
-
 Eu sou o Dario, desenvolvedor de software e estudante de Ciência da Computação na UNIFAP, apaixonado por tecnologia e autodidata. Estou sendo buscando me manter atualizado e estar por dentro das tedências de tecnologia. 
 
 Possuo experiência com desenvolvimento full-stack web e mobile utilizando Typescript/Javascript, junto a computação em Nuvem na AWS utilizando o CDK.
