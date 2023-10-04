@@ -4,7 +4,7 @@ Possuo experiência com desenvolvimento full-stack web e mobile utilizando Types
 
 📫 Como me contatar:  
 
- dario.rodri123@gmail.com
+ dario.rodri123@gmail.com 
  [LinkendIn](https://www.linkedin.com/in/dariorodriguesdev/)
 
 🔎 Meus perfis:  
