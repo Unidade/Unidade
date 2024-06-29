@@ -1,13 +1,17 @@
-Desenvolvedor de software e estudante de Ciência da Computação na UNIFAP, apaixonado por tecnologia e autodidata. Estou sempre buscando me manter atualizado e estar por dentro das tedências de tecnologia. 
+CS Student 🧑‍💻
 
-Possuo experiência com desenvolvimento full-stack web e mobile utilizando Typescript/Javascript além de computação em nuvem utilizando AWS.
+Web Software Engineer 🌐
 
-📫 Como me contatar:  
+Studying how to make a high density blazing fast LLM for coffee ☕️ 
+
+
+
+📫 Reach out:  
 
  dario.rodri123@gmail.com 
  [LinkendIn](https://www.linkedin.com/in/dariorodriguesdev/)
 
-🔎 Meus perfis:  
+🔎 Profiles:  
 
 [Frontend Mentor](https://www.frontendmentor.io/profile/Unidade)
 
